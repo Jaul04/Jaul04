@@ -12,7 +12,7 @@
 
 ## 🌍 Live Projects
 - Gym Website: https://jaul04.github.io/gym/
-- Calculator App: https://jaul04.github.io/calculator/
+- Calculator App: https://jaul04.github.io/Calculator/
 
 ## 📫 Contact
 Email: ansarjaul555@gmail.com
