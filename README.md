@@ -1,9 +1,18 @@
 # Hi, I'm Jaul 👋
 
 💻 Frontend Developer  
-🌱 Learning Full Stack Development  
-🚀 Built Projects:
-- Gym Website
-- Calculator App
+🎓 B.Tech Computer Engineering Student  
+🚀 Currently building real-world web projects  
 
-📫 Email: ansarjaul555@gmail.com
+## 🔥 Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 🌍 Live Projects
+- Gym Website: https://jaul04.github.io/gym/
+- Calculator App: https://jaul04.github.io/javascript-calculator/
+
+## 📫 Contact
+Email: ansarjaul555@gmail.com
