@@ -1,14 +1,18 @@
-# Hi, I'm Jaul 👋
+# Hi 👋, I'm Jaul
 
-💻 Frontend Developer  
-🎓 B.Tech Computer Engineering Student  
-🚀 Currently building real-world web projects  
+💻 Computer Engineering Student  
+🌱 Currently learning Python & Full Stack Development  
+📊 Interested in Data Analytics  
 
-## 🔥 Skills
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+## 🔧 Skills
+- Python
+- HTML, CSS, JavaScript
+- Data Analysis (Pandas, Matplotlib)
+
+## 📈 Currently Working On
+- Python Projects
+- Data Analysis Assignments
+
 
 ## 🌍 Live Projects
 - Gym Website: https://jaul04.github.io/gym/
