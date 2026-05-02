@@ -1,17 +1,34 @@
 # Hi 👋, I'm Jaul
 
-💻 Computer Engineering Student  
-🌱 Currently learning Python & Full Stack Development  
-📊 Interested in Data Analytics  
+🎓 Computer Engineering Student  
+💻 Web Developer & Data Science Enthusiast  
+🌱 Currently learning Full Stack Development (MERN) & Python  
+📊 Interested in Data Analytics & Visualization  
+
+---
 
 ## 🔧 Skills
+
+**💻 Programming & Web Development**
 - Python
 - HTML, CSS, JavaScript
-- Data Analysis (Pandas, Matplotlib)
+- React (Learning)
+
+**📊 Data Science & Analytics**
+- Data Analysis (Pandas, NumPy)
+- Data Visualization (Matplotlib, Seaborn)
+
+**🛠️ Tools & Technologies**
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+---
 
 ## 📈 Currently Working On
-- Python Projects
-- Data Analysis Assignments
+- 🚀 Full Stack Web Development Projects  
+- 📊 Data Analysis & Visualization Projects  
+- 🧠 Improving Problem-Solving Skills
 
 
 ## 🌍 Live Projects
