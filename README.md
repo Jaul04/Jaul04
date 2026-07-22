@@ -32,8 +32,9 @@
 
 
 ## 🌍 Live Projects
-- Gym Website: https://jaul04.github.io/gym/
-- Calculator App: https://jaul04.github.io/Calculator/
-- Amazon Clone App :  https://jaul04.github.io/Amazon/
+- Library Management System: https://library-management-system-4-eft5.onrender.com
+- Gym Website: https://bodygeem.netlify.app
+- Calculator App: https://mobcalci.netlify.app
+- Amazon Clone App :  https://amzoclone.netlify.app
 ## 📫 Contact
 Email: ansarjaul555@gmail.com
